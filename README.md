@@ -8,9 +8,8 @@ exemples of unit tests with jest
 "scripts": {
     "test": "jest"
   }
+3. npm i -D jest
+4. npm i axios
   
   
-3.npm i -D jest
-4.npm i axios
-
-npm test - is a comand for the testing proses begining
+## npm test - is a comand for the testing proses begining
