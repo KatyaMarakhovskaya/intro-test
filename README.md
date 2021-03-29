@@ -8,7 +8,6 @@ exemples of unit tests with jest
 "scripts": {
     "test": "jest"
   },
-
 3.npm i -D jest
 4.npm i axios
 
