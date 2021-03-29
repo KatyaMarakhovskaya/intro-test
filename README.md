@@ -7,7 +7,9 @@ exemples of unit tests with jest
 2. in the packeage.json write: 
 "scripts": {
     "test": "jest"
-  },
+  }
+  
+  
 3.npm i -D jest
 4.npm i axios
 
