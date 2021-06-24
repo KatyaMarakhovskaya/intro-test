@@ -1,7 +1,5 @@
-branch master
+# unit tests with JEST
 
-# intro-test
-exemples of unit tests with jest
 
 1. npm init 
 2. in the packeage.json write: 
